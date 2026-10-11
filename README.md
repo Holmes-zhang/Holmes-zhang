@@ -8,7 +8,7 @@
 
 支持公式排版、解析显隐、每页独立板书和会议模式。附 8 页示例与使用说明；板书只保留在当前页面会话中，需要留存时截图。
 
-[查看模板与说明](https://github.com/Holmes-zhang/tutoring-courseware) · [下载课件文件](https://github.com/Holmes-zhang/tutoring-courseware/blob/main/index.html)
+[在线预览](https://holmes-zhang.github.io/tutoring-courseware/) · [使用说明](https://github.com/Holmes-zhang/tutoring-courseware) · [复用模板](https://github.com/Holmes-zhang/tutoring-courseware/generate)
 
 ### [民办 mac](https://github.com/Holmes-zhang/minban-mac)
 

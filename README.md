@@ -1,6 +1,14 @@
 # 一些日常折腾
 
-这里放着我上课时会用的模板、想让电脑更顺手时做的小工具，以及偶尔用来~~搞抽象~~放空的小游戏。
+这里放着我上课时会用的模板、想让电脑更顺手时做的小工具、把图片变成拼豆图纸的小玩意，以及偶尔用来~~搞抽象~~放空的小游戏。
+
+### [拼豆图纸生成器](https://github.com/Holmes-zhang/bead-pattern-generator)
+
+给喜欢的图片换一种摆在桌上的方式。上传图片，定好尺寸和颜色数量，就能得到带坐标、色号和材料清单的拼豆图纸；也可以导入自己手里的色卡。
+
+支持拼豆效果与轻、中、重三档烫豆预览。图片在本机处理，v1 提供在线版和离线单文件版。
+
+[试着拼一张](https://holmes-zhang.github.io/bead-pattern-generator/) · [下载 v1](https://github.com/Holmes-zhang/bead-pattern-generator/releases/tag/v1.0.0) · [使用说明](https://github.com/Holmes-zhang/bead-pattern-generator)
 
 ### [家教课件模板](https://github.com/Holmes-zhang/tutoring-courseware)
 
